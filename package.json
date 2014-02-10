@@ -1,0 +1,10 @@
+{
+    "name": "blog-rest-api",
+    "description": "Sample REST API for EmberJS CRUD sample",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x",
+        "mongodb": "*"
+    }
+}
