@@ -6,7 +6,7 @@ In this article I'll show you how to create a simple REST API support `GET`, `PO
 
 The REST API will be built using Node.JS, using the Express framework, and storing / retrieving data in a MongoDB.
 
-The REST API was created to act as a backend for an [Ember.JS CRUD Demo webapp](https://github.com/ddewaele/emberjs-crud-rest/) using the default EmberData RESTAdapter. As such, the API follows certain EmberData specific conventions. The API itself however remains pure REST.
+The REST API is created to act as a backend for various sample apps.
 
 The code is available in [Github](https://github.com/ddewaele/blog-rest-api).
 
